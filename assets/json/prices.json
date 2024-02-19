@@ -1,0 +1,1536 @@
+{
+  "Carpet": {
+    "Room Type": {
+      "Rooms": {
+        "Basic": "$0.28",
+        "Vacuum": "$7",
+        "Odor Removal & Sanitize": "₵12",
+        "Protectant": "₵12",
+        "Fresh Scent": "₵12",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵3",
+          "High": "₵5"
+        },
+        "Severity of Stains": {
+          "Low": "₵0",
+          "Medium": "₵3",
+          "High": "₵5"
+        }
+      },
+      "Bath or Laundry": {
+        "Basic": "$37",
+        "Vacuum": "$5",
+        "Odor Removal & Sanitize": "$16",
+        "Protectant": "$16",
+        "Fresh Scent": "$16",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵3",
+          "High": "₵5"
+        },
+        "Severity of Stains": {
+          "Low": "₵0",
+          "Medium": "₵3",
+          "High": "₵5"
+        }
+      },
+      "Entryway or Hallways": {
+        "Basic": "$37",
+        "Vacuum": "$5",
+        "Odor Removal & Sanitize": "$20",
+        "Protectant": "$20",
+        "Fresh Scent": "$20",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵3",
+          "High": "₵5"
+        },
+        "Severity of Stains": {
+          "Low": "₵0",
+          "Medium": "₵3",
+          "High": "₵5"
+        }
+      },
+      "Stairways": {
+        "Basic": "$72",
+        "Vacuum": "$10",
+        "Odor Removal & Sanitize": "$32",
+        "Protectant": "$32",
+        "Fresh Scent": "$32",
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$20",
+          "High": "$38"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$20",
+          "High": "$38"
+        }
+      },
+      "Closets": {
+        "Basic": "$37",
+        "Vacuum": "$5",
+        "Odor Removal & Sanitize": "$20",
+        "Protectant": "$20",
+        "Fresh Scent": "$20",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵3",
+          "High": "₵5"
+        },
+        "Severity of Stains": {
+          "Low": "₵0",
+          "Medium": "₵3",
+          "High": "₵5"
+        }
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Vacuum"
+        ],
+        "description": "Includes cleaning and vacuum."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Odor Removal & Sanitize"
+        ],
+        "description": "Includes cleaning, vacuum and odor removal & sanitize."
+      },
+      "Diamond": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Odor Removal & Sanitize",
+          "Protectant"
+        ],
+        "description": "Includes cleaning, vacuum, odor removal & sanitize and protectant."
+      },
+      "Platinum": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Odor Removal & Sanitize",
+          "Protectant",
+          "Fresh Scent"
+        ],
+        "description": "Includes cleaning, vacuum, odour removal or sanitize, protectant and scent."
+      }
+    },
+    "notes": {
+      "Rooms": "In the absence of the measurements, a room is assumed to be 250 SF. A room can't be less than 250 SF. Any larger area will incur additional charges or 44 cents per SF. Each room is considered individually and can't be combined for measurement purposes.",
+      "Bath or Laundry": "Each bath/laundry/closet is assumed to be 100 SF. Any larger area will incur additional charges of 44 cents per SF. Each room is considered individually and can't be combined for measurement purposes.",
+      "Entryway or Hallways": "Each entryway/hallway is assumed to be 100 SF. Any larger area will incur additional charges of 44 cents per SF. Each area is considered individually and can't be combined for measurement purposes.",
+      "Stairways": "A stairway consists of 16 steps and 2 landings. Each landing is considered up to 30 SF. Additional steps will be cleaned for \\$6 per step and additional landing area at 44 cents per SF.",
+      "Closets": "Each closet is assumed to be 100 SF. Any larger area will incur additional charges of 44 cents per SF. Each area is considered individually and can't be combined for measurement purposes.\r\n\r\n(b)Stains:(/b) (this applies to all of the above)\tMost stains can be removed using normal cleaning procedures. However, food, grease, ink related stains and urine/feces/vomit/blood/dairy stains may require specialized eco-friendly application to remove them. There are additional charges for tough stain removal."
+    }
+  },
+  "Upholstery": {
+    "Furniture": {
+      "Armchair": {
+        "Odor Removal & Sanitize": "$15",
+        "Protectant": "$15",
+        "Fresh Scent": "$15",
+        "Upholstery Type": {
+          "Fabric": "$67",
+          "Microfiber": "$74",
+          "Wool": "$74",
+          "Don't know - (Fabric)": "$67",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$3",
+          "High": "$5"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$3",
+          "High": "$5"
+        }
+      },
+      "Chaise": {
+        "Odor Removal & Sanitize": "$12",
+        "Protectant": "$12",
+        "Fresh Scent": "$12",
+        "Upholstery Type": {
+          "Fabric": "$33",
+          "Microfiber": "$36",
+          "Wool": "$36",
+          "Don't know - (Fabric)": "$36",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$4",
+          "High": "$6"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$4",
+          "High": "$6"
+        }
+      },
+      "Cushions/Pillows": {
+        "Odor Removal & Sanitize": "$2",
+        "Protectant": "$2",
+        "Fresh Scent": "$2",
+        "Upholstery Type": {
+          "Fabric": "$5",
+          "Microfiber": "$6",
+          "Wool": "$6",
+          "Don't know - (Fabric)": "$5",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$1",
+          "High": "$2"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$1",
+          "High": "$2"
+        }
+      },
+      "Dinning chair": {
+        "Odor Removal & Sanitize": "$13",
+        "Protectant": "$13",
+        "Fresh Scent": "$13",
+        "Upholstery Type": {
+          "Fabric": "$28",
+          "Microfiber": "$30",
+          "Wool": "$30",
+          "Don't know - (Fabric)": "$28",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$2",
+          "High": "$5"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$2",
+          "High": "$5"
+        }
+      },
+      "Office chair": {
+        "Odor Removal & Sanitize": "$9",
+        "Protectant": "$9",
+        "Fresh Scent": "$9",
+        "Upholstery Type": {
+          "Fabric": "$20",
+          "Microfiber": "$22",
+          "Wool": "$22",
+          "Don't know - (Fabric)": "$20",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$3",
+          "High": "$5"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$3",
+          "High": "$5"
+        }
+      },
+      "Ottoman": {
+        "Odor Removal & Sanitize": "$15",
+        "Protectant": "$15",
+        "Fresh Scent": "$15",
+        "Upholstery Type": {
+          "Fabric": "$30",
+          "Microfiber": "$33",
+          "Wool": "$33",
+          "Don't know - (Fabric)": "$30",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$3",
+          "High": "$5"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$3",
+          "High": "$5"
+        }
+      },
+      "Recliner": {
+        "Odor Removal & Sanitize": "$30",
+        "Protectant": "$30",
+        "Fresh Scent": "$30",
+        "Upholstery Type": {
+          "Fabric": "$69",
+          "Microfiber": "$76",
+          "Wool": "$76",
+          "Don't know - (Fabric)": "$69",
+          "Suede - Don't Clean": "$69"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$5",
+          "High": "$8"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$5",
+          "High": "$8"
+        }
+      },
+      "Sofa - 1 Seater (Chair)": {
+        "Odor Removal & Sanitize": "$25",
+        "Protectant": "$25",
+        "Fresh Scent": "$25",
+        "Upholstery Type": {
+          "Fabric": "$58",
+          "Microfiber": "$63",
+          "Wool": "$63",
+          "Don't know - (Fabric)": "$58",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$3",
+          "High": "$5"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$3",
+          "High": "$5"
+        }
+      },
+      "Sofa - 2 Seater (Love Seat)": {
+        "Odor Removal & Sanitize": "$40",
+        "Protectant": "$40",
+        "Fresh Scent": "$40",
+        "Upholstery Type": {
+          "Fabric": "$117",
+          "Microfiber": "$128",
+          "Wool": "$128",
+          "Don't know - (Fabric)": "$117",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$10",
+          "High": "$15"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$10",
+          "High": "$15"
+        }
+      },
+      "Sofa - 3 Seater": {
+        "Odor Removal & Sanitize": "$49",
+        "Protectant": "$49",
+        "Fresh Scent": "$49",
+        "Upholstery Type": {
+          "Fabric": "$168",
+          "Microfiber": "$188",
+          "Wool": "$188",
+          "Don't know - (Fabric)": "$168",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$12",
+          "High": "$18"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$12",
+          "High": "$18"
+        }
+      },
+      "Sectional - Per Seat": {
+        "Odor Removal & Sanitize": "$53",
+        "Protectant": "$53",
+        "Fresh Scent": "$53",
+        "Upholstery Type": {
+          "Fabric": "$61",
+          "Microfiber": "$67",
+          "Wool": "$67",
+          "Don't know - (Fabric)": "$61",
+          "Suede - Don't Clean": "$0"
+        },
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$6",
+          "High": "$9"
+        },
+        "Severity of Stains": {
+          "Low": "$0",
+          "Medium": "$6",
+          "High": "$9"
+        }
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Odor Removal & Sanitize"
+        ],
+        "description": "Includes cleaning and odor removal & sanitize."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Odor Removal & Sanitize",
+          "Protectant"
+        ],
+        "description": "Includes cleaning, odor removal & sanitize and protectant."
+      },
+      "Diamond": {
+        "discount": "0",
+        "selections": [
+          "Odor Removal & Sanitize",
+          "Protectant",
+          "Fresh Scent"
+        ],
+        "description": "Includes cleaning, odour removal, protectant and fresh scent."
+      }
+    },
+    "notes": {
+      "Upholstery": "If a customer doesn't know upholstery type. Estimate is based on a fabric upholstered furniture. The technician will examine the fabric and assess if the price should be changed.\n\nMost stains can be removed using normal cleaning procedures. However, food, grease, ink related stains and urine/feces/vomit/blood/dairy stains may require specialized eco-friendly application to remove them. There are additional charges for tough stain removal."
+    }
+  },
+  "Tile Floor & Grout": {
+    "Room Type": {
+      "Rooms": {
+        "Basic": "₵87",
+        "Vacuum": "$7",
+        "Clear Seal": "₵50",
+        "Sanitize": "₵40",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵5",
+          "High": "₵7"
+        }
+      },
+      "Bath or Laundry": {
+        "Basic": "$59",
+        "Vacuum": "$5",
+        "Clear Seal": "$29",
+        "Sanitize": "$29",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵5",
+          "High": "₵7"
+        }
+      },
+      "Entryway or Hallways": {
+        "Basic": "$60",
+        "Vacuum": "$5",
+        "Clear Seal": "$29",
+        "Sanitize": "$29",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵5",
+          "High": "₵7"
+        }
+      },
+      "Stairways": {
+        "Basic": "$119",
+        "Vacuum": "$10",
+        "Clear Seal": "$59",
+        "Sanitize": "$59",
+        "Soil/Dirt Level": {
+          "Low": "$0",
+          "Medium": "$30",
+          "High": "$45"
+        }
+      },
+      "Closets": {
+        "Basic": "$55",
+        "Vacuum": "$5",
+        "Clear Seal": "$29",
+        "Sanitize": "$29",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵5",
+          "High": "₵7"
+        }
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Vacuum"
+        ],
+        "description": "Includes cleaning and vacuum."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Clear Seal"
+        ],
+        "description": "Includes cleaning, vacuum and clear seal."
+      },
+      "Diamond": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Clear Seal",
+          "Sanitize"
+        ],
+        "description": "Includes cleaning, vacuum, clear seal and sanitize."
+      }
+    },
+    "notes": {
+      "Rooms": "In the absence of the measurements, a room is assumed to be 250 SF. A room can't be less than 250 SF. Any larger area will incur additional charges or 55 cents per SF. Each room is considered individually and can't be combined for measurement purposes.",
+      "Bath or Laundry": "Each bath/laundry/closet is assumed to be 100 SF. Any larger area will incur additional charges of 55 cents per SF. Each room is considered individually and can't be combined for measurement purposes.",
+      "Entryway or Hallways": "Each entryway/hallway is assumed to be 100 SF. Any larger area will incur additional charges of 55 cents per SF. Each area is considered individually and can't be combined for measurement purposes.",
+      "Stairways": "A stairway consists of 16 steps and 2 landings. Each landing is considered up to 30 SF. Additional steps will be cleaned for $6 per step and additional landing area at 55 cents per SF.",
+      "Closets": "Each closet is assumed to be 100 SF. Any larger area will incur additional charges of 55 cents per SF. Each area is considered individually and can't be combined for measurement purposes."
+    }
+  },
+  "Stone Floor": {
+    "Room Type": {
+      "Rooms": {
+        "Basic": "₵150",
+        "Vacuum": "$7",
+        "Seal": "₵65",
+        "Polish": "₵65",
+        "Sanitize": "₵65",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵10",
+          "High": "₵20"
+        },
+        "Stone Type": {
+          "Concrete": "$0",
+          "Flagstone": "$0",
+          "Granite": "$0",
+          "Lime": "$0",
+          "Marble": "$0",
+          "Saltillo": "$0",
+          "Slate": "$0",
+          "Terrazzo": "$0",
+          "Travertine": "$0"
+        }
+      },
+      "Bath or Laundry": {
+        "Basic": "$79",
+        "Vacuum": "$5",
+        "Seal": "$55",
+        "Polish": "$55",
+        "Sanitize": "$55",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵10",
+          "High": "₵20"
+        },
+        "Stone Type": {
+          "Concrete": "$0",
+          "Flagstone": "$0",
+          "Granite": "$0",
+          "Lime": "$0",
+          "Marble": "$0",
+          "Saltillo": "$0",
+          "Slate": "$0",
+          "Terrazzo": "$0",
+          "Travertine": "$0"
+        }
+      },
+      "Entryway or Hallways": {
+        "Basic": "$80",
+        "Vacuum": "$5",
+        "Seal": "$55",
+        "Polish": "$55",
+        "Sanitize": "$55",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵10",
+          "High": "₵20"
+        },
+        "Stone Type": {
+          "Concrete": "$0",
+          "Flagstone": "$0",
+          "Granite": "$0",
+          "Lime": "$0",
+          "Marble": "$0",
+          "Saltillo": "$0",
+          "Slate": "$0",
+          "Terrazzo": "$0",
+          "Travertine": "$0"
+        }
+      },
+      "Stairways": {
+        "Basic": "$139",
+        "Vacuum": "$10",
+        "Seal": "$69",
+        "Polish": "$69",
+        "Sanitize": "$69",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "$45",
+          "High": "$60"
+        },
+        "Stone Type": {
+          "Concrete": "$0",
+          "Flagstone": "$0",
+          "Granite": "$0",
+          "Lime": "$0",
+          "Marble": "$0",
+          "Saltillo": "$0",
+          "Slate": "$0",
+          "Terrazzo": "$0",
+          "Travertine": "$0"
+        }
+      },
+      "Closets": {
+        "Basic": "$79",
+        "Vacuum": "$5",
+        "Seal": "$55",
+        "Polish": "$55",
+        "Sanitize": "$55",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵10",
+          "High": "₵20"
+        },
+        "Stone Type": {
+          "Concrete": "$0",
+          "Flagstone": "$0",
+          "Granite": "$0",
+          "Lime": "$0",
+          "Marble": "$0",
+          "Saltillo": "$0",
+          "Slate": "$0",
+          "Terrazzo": "$0",
+          "Travertine": "$0"
+        }
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Vacuum"
+        ],
+        "description": "Includes cleaning and vacuum."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Seal"
+        ],
+        "description": "Includes cleaning, vacuum and seal."
+      },
+      "Diamond": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Seal",
+          "Polish"
+        ],
+        "description": "Includes cleaning, vacuum, seal and polish."
+      },
+      "Platinum": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Seal",
+          "Polish",
+          "Sanitize"
+        ],
+        "description": "Includes cleaning, vacuum, seal, polish and sanitize."
+      }
+    },
+    "notes": {
+      "Rooms": "In the absence of the measurements, a room is assumed to be 250 SF. A room can't be less than 250 SF. Any larger area will incur additional charges or 80 cents per SF. Each room is considered individually and can't be combined for measurement purposes.",
+      "Bath or Laundry": "Each bath/laundry/closet is assumed to be 100 SF. Any larger area will incur additional charges of 80 cents per SF. Each room is considered individually and can't be combined for measurement purposes.",
+      "Entryway or Hallways": "Each entryway/hallway is assumed to be 100 SF. Any larger area will incur additional charges of 80 cents per SF. Each area is considered individually and can't be combined for measurement purposes.",
+      "Stairways": "A stairway consists of 16 steps and 2 landings. Each landing is considered up to 30 SF. Additional steps will be cleaned for $6 per step and additional landing area at 80 cents per SF.",
+      "Closets": "Each closet is assumed to be 100 SF. Any larger area will incur additional charges of 80 cents per SF. Each area is considered individually and can't be combined for measurement purposes."
+    }
+  },
+  "Stone Countertop": {
+    "Countertop": {
+      "Kitchen": {
+        "Size (SF = L x W)": {
+          "Don't Know = 30 SF": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "40": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "50": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "60": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "70": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "80": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "90": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "100": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "110": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "120": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "130": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "140": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "150": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "160": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "170": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "180": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "190": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "200": {
+            "Basic": "$6",
+            "Polish": "$2",
+            "Seal": "$2",
+            "Sanitize": "$2",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          }
+        }
+      },
+      "Bathroom": {
+        "Bath Counter Type": {
+          "Single Sink": {
+            "Basic": "$45",
+            "Polish": "$18",
+            "Seal": "$18",
+            "Sanitize": "$18",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          },
+          "Double Sink": {
+            "Basic": "$72",
+            "Polish": "$22",
+            "Seal": "$22",
+            "Sanitize": "$22",
+            "Stone Type": {
+              "Granite": "$0",
+              "Marble": "$0",
+              "Quartz": "$0",
+              "Soapstone": "$0",
+              "Solid Surface": "$0"
+            }
+          }
+        }
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Polish"
+        ],
+        "description": "Includes cleaning and polish."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Polish",
+          "Seal"
+        ],
+        "description": "Includes cleaning, polish and seal."
+      },
+      "Diamond": {
+        "discount": "0",
+        "selections": [
+          "Polish",
+          "Seal",
+          "Sanitize"
+        ],
+        "description": "Includes cleaning, polish, seal and sanitize."
+      }
+    },
+    "notes": {
+      "Stone Countertop": "In the absence of the measurements, a countertop is assumed to be 30 SF. Actual cost may be higher/lower depending on the actual square footage of the countertop. The actual measurements may also impact the cost of optional services."
+    }
+  },
+  "Area Rug": {
+    "Rug Type": {
+      "Synthetic": {
+        "Basic": "$1.07",
+        "Vacuum": "$7",
+        "Odor Removal & Sanitize": "₵50",
+        "Protectant": "₵50",
+        "Fresh Scent": "₵50",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵5",
+          "High": "₵10"
+        },
+        "Severity of Stains": {
+          "Low": "₵0",
+          "Medium": "₵5",
+          "High": "₵10"
+        }
+      },
+      "Wool or Natural": {
+        "Basic": "$2",
+        "Vacuum": "$7",
+        "Odor Removal & Sanitize": "₵60",
+        "Protectant": "₵60",
+        "Fresh Scent": "₵60",
+        "Soil/Dirt Level": {
+          "Low": "₵0",
+          "Medium": "₵25",
+          "High": "₵50"
+        },
+        "Severity of Stains": {
+          "Low": "₵0",
+          "Medium": "₵25",
+          "High": "₵50"
+        }
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Vacuum"
+        ],
+        "description": "Includes cleaning and vacuum."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Odor Removal & Sanitize"
+        ],
+        "description": "Includes cleaning, vacuum and odor removal & sanitize."
+      },
+      "Diamond": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Odor Removal & Sanitize",
+          "Protectant"
+        ],
+        "description": "Includes cleaning, vacuum, odor removal & sanitize and protectant."
+      },
+      "Platinum": {
+        "discount": "0",
+        "selections": [
+          "Vacuum",
+          "Odor Removal & Sanitize",
+          "Protectant",
+          "Fresh Scent"
+        ],
+        "description": "Includes cleaning, vacuum, odour removal or sanitize, protectant and scent."
+      }
+    },
+    "notes": {
+      "Area Rugs": "In the absence of the measurements, a rug is assumed to be 5 X 8 ft. A larger rug will incur additional charges for basic cleaning of $1.10 per SF. Each rug is considered individually and can't be combined for measurement purposes.\n\n(b)Stains:(/b)\tMost stains can be removed using normal cleaning procedures. However, food, grease, ink related stains and urine/feces/vomit/blood/dairy stains may require specialized eco-friendly applications to be removed. There are additional charges for such stain removal."
+    }
+  },
+  "Curtains & Drapes": {
+    "Material Type": {
+      "Don't Know": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Blackout": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Chiffon": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Cotton": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Lace": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Linen": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Polyester": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Silk": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Thermal": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      },
+      "Velvet": {
+        "Basic": "$30",
+        "Odor Removal & Sanitize": "$15",
+        "Fresh Scent": "$15"
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Odor Removal & Sanitize"
+        ],
+        "description": "Includes cleaning and odor removal & sanitize."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Odor Removal & Sanitize",
+          "Fresh Scent"
+        ],
+        "description": "Includes cleaning, odor removal & sanitize and protectant."
+      }
+    },
+    "notes": {
+      "Curtains & Drapes": "Most stains can be removed using normal cleaning procedures. However, food, grease, ink related stains and urine/feces/vomit/blood/dairy stains may require specialized eco-friendly applications to be removed. There are additional charges for such stain removal. Also note that some stains can't be removed."
+    }
+  },
+  "Mattress": {
+    "Mattress Size": {
+      "Twin": {
+        "Basic": "$79",
+        "Odor Removal & Sanitize": "$35",
+        "Protectant": "$35",
+        "Fresh Scent": "$35"
+      },
+      "Full": {
+        "Basic": "$100",
+        "Odor Removal & Sanitize": "$45",
+        "Protectant": "$45",
+        "Fresh Scent": "$45"
+      },
+      "Queen": {
+        "Basic": "$110",
+        "Odor Removal & Sanitize": "$55",
+        "Protectant": "$55",
+        "Fresh Scent": "$55"
+      },
+      "King": {
+        "Basic": "$125",
+        "Odor Removal & Sanitize": "$60",
+        "Protectant": "$60",
+        "Fresh Scent": "$60"
+      }
+    },
+    "Soil/Dirt Level": {
+      "Low": {
+        "Twin": "$0",
+        "Full": "$0",
+        "Queen": "$0",
+        "King": "$0"
+      },
+      "Medium": {
+        "Twin": "$3",
+        "Full": "$5",
+        "Queen": "$8",
+        "King": "$10"
+      },
+      "High": {
+        "Twin": "$5",
+        "Full": "$10",
+        "Queen": "$15",
+        "King": "$20"
+      }
+    },
+    "Severity of Stains": {
+      "Low": {
+        "Twin": "$0",
+        "Full": "$0",
+        "Queen": "$0",
+        "King": "$0"
+      },
+      "Medium": {
+        "Twin": "$3",
+        "Full": "$5",
+        "Queen": "$8",
+        "King": "$10"
+      },
+      "High": {
+        "Twin": "$5",
+        "Full": "$10",
+        "Queen": "$15",
+        "King": "$20"
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Odor Removal & Sanitize"
+        ],
+        "description": "Includes cleaning and odor removal & sanitize."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Odor Removal & Sanitize",
+          "Protectant"
+        ],
+        "description": "Includes cleaning, odor removal & sanitize and protectant."
+      },
+      "Diamond": {
+        "discount": "0",
+        "selections": [
+          "Odor Removal & Sanitize",
+          "Protectant",
+          "Fresh Scent"
+        ],
+        "description": "Includes cleaning, odor removal & sanitize, protectant and fresh scent."
+      }
+    },
+    "notes": {
+      "Mattress": "Most stains can be removed using normal cleaning procedures. However, food, grease, ink related stains and urine/feces/vomit/blood/dairy stains may require specialized eco-friendly application to remove them. There are additional charges for tough stain removal."
+    }
+  },
+  "Leather": {
+    "Furniture": {
+      "Armchair": {
+        "Basic": "$74",
+        "Conditioner": "$16",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Chaise": {
+        "Basic": "$36",
+        "Conditioner": "$13",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Cushions/Pillows": {
+        "Basic": "$6",
+        "Conditioner": "$3",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Dinning chair": {
+        "Basic": "$30",
+        "Conditioner": "$14",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Office chair": {
+        "Basic": "$22",
+        "Conditioner": "$11",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Ottoman": {
+        "Basic": "$33",
+        "Conditioner": "$16",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Recliner": {
+        "Basic": "$76",
+        "Conditioner": "$33",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Sofa - 1 Seater (Chair)": {
+        "Basic": "$65",
+        "Conditioner": "$28",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Sofa - 2 Seater (Love Seat)": {
+        "Basic": "$131",
+        "Conditioner": "$45",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Sofa - 3 Seater": {
+        "Basic": "$188",
+        "Conditioner": "$55",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      },
+      "Sectional - Per Seat": {
+        "Basic": "$69",
+        "Conditioner": "$38",
+        "Leather type": {
+          "Leather": "$0",
+          "Vinyl": "$0",
+          "Faux Leather": "$0"
+        }
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Conditioner"
+        ],
+        "description": "Includes cleaning and conditioner."
+      }
+    },
+    "notes": {
+      "Leather": ""
+    }
+  },
+  "Air Duct": {
+    "Air Duct": {
+      "price": "$29"
+    },
+    "Air Return": {
+      "price": "$44"
+    },
+    "Air Filter Change": {
+      "Filter": {
+        "price": "$30"
+      },
+      "Filter Size": {
+        "Don't know": "$0",
+        "12x12x1": "$0",
+        "12x20x1": "$0",
+        "12x24x1": "$0",
+        "12x24x2": "$0",
+        "12x30x1": "$0",
+        "12x36x1": "$0",
+        "14x14x1": "$0",
+        "14x18x1": "$0",
+        "14x20x1": "$0",
+        "14x24x1": "$0",
+        "14x25x1": "$0",
+        "14x30x1": "$0",
+        "16x20x1": "$0",
+        "16x24x1": "$0",
+        "16x25x1": "$0",
+        "16x25x4": "$0",
+        "16x25x5": "$0",
+        "16x30x1": "$0",
+        "18x18x1": "$0",
+        "18x20x1": "$0",
+        "18x24x1": "$0",
+        "18x25x1": "$0",
+        "18x30x1": "$0",
+        "18x36x1": "$0",
+        "20x20x1": "$0",
+        "20x24x1": "$0",
+        "20x25x1": "$0",
+        "20x25x5": "$0",
+        "20x30x1": "$0",
+        "24x24x1": "$0",
+        "24x24x2": "$0",
+        "24x24x4": "$0",
+        "24x30x3/4": "$0",
+        "24x30x1": "$0",
+        "24x36x1": "$0"
+      }
+    },
+    "Sanitize (Ducts & Returns)": {
+      "Air Duct": "$12",
+      "Air Return": "$12"
+    },
+    "Furnace Cleaning": {
+      "price": "$40"
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Sanitize (Ducts & Returns)"
+        ],
+        "description": "Includes cleaning and sanitize."
+      },
+      "Gold": {
+        "discount": "0",
+        "selections": [
+          "Sanitize (Ducts & Returns)",
+          "Air Filter Change"
+        ],
+        "description": "Includes cleaning, sanitize and air filter change."
+      },
+      "Diamond": {
+        "discount": "0",
+        "selections": [
+          "Sanitize (Ducts & Returns)",
+          "Air Filter Change",
+          "Furnace Cleaning"
+        ],
+        "description": "Includes cleaning, sanitize, air filter change and furnace cleaning."
+      }
+    },
+    "notes": {
+      "Air duct/Air returns cleaning": "In case the exact number of air ducts and air returns is not known, the estimate is calculated based on an assumed number of 8 air ducts and 2 air returns. Our technician will conduct an accurate count and provide a revised estimate during the on-site inspection. The charge for each air duct is $29 and for each air return is $44.\n\n(b)Filters replacement:(/b) In case the the exact number of air filters is not known, the estimate has been calculated based one filter. Our technician will conduct an accurate count and provide a revised estimate during the on-site inspection.\n\n(b)Sanitize (Ducts & Returns):(/b) In case the exact number of air ducts and air returns is not known, the estimate is calculated based on an assumed number of 8 air ducts and 2 air returns. Our technician will conduct an accurate count and provide a revised estimate during the on-site inspection. The price to sanitize each air duct and air return is $12.\n\n(b)Furnace cleaning:(/b) In case the the exact number of furnaces is not known, the estimate has been calculated based one filter. Our technician will conduct an accurate count and provide a revised estimate during the on-site inspection. The furnace cleaning costs $40 per furnace."
+    }
+  },
+  "Dryer Vent": {
+    "Dryer Vent Floor": {
+      "Basement": {
+        "Basic": "$154",
+        "Sanitization": "$40"
+      },
+      "1st Floor": {
+        "Basic": "$154",
+        "Sanitization": "$40"
+      },
+      "2nd Floor": {
+        "Basic": "$154",
+        "Sanitization": "$40"
+      },
+      "3rd Floor": {
+        "Basic": "$154",
+        "Sanitization": "$40"
+      },
+      "4th Floor": {
+        "Basic": "$154",
+        "Sanitization": "$40"
+      },
+      "5th Floor": {
+        "Basic": "$154",
+        "Sanitization": "$40"
+      }
+    },
+    "packages": {
+      "Basic": {
+        "discount": "0",
+        "selections": [],
+        "description": "Cleaning only."
+      },
+      "Silver": {
+        "discount": "0",
+        "selections": [
+          "Sanitization"
+        ],
+        "description": "Includes cleaning and sanitization."
+      }
+    },
+    "notes": {
+      "Dryer vent cleaning": "The estimate is for up to 10 feet of dryer vent cleaning. An additional charge of $6/foot will incur for vents longer than 10 feet."
+    }
+  },
+  "Others": {
+    "address": {
+      "company": "ZOLIKS Cleaning",
+      "website": "https://www.zoliks.com",
+      "email": "info@zoliks.com",
+      "phone": "7325692528",
+      "street": "1000 Farm Street",
+      "unit": "1086",
+      "city": "Freehold",
+      "state": "NJ",
+      "zip_code": "07728"
+    },
+    "service_fee": {
+      "fee": "$50"
+    },
+    "tax_percentage": {
+      "value": "6.625"
+    },
+    "minimum_price": {
+      "price": "$150",
+      "note": "Your order total of #order_amount# does not meet our required #minimum_amount# job minimum. You may add items to the order, or continue and be charged the minimum job amount."
+    },
+    "minimum_room_size": {
+      "size": "250",
+      "note": "Minimum cleaning area required is 250 SF. Please select the 250 SF option"
+    }
+  }
+}
